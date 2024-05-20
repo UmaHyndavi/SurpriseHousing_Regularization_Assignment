@@ -5,8 +5,8 @@
 
 ## Table of Contents
 * [General Info](#general-information)
+* [Predictor variables](#conclusions)
 * [Technologies Used](#technologies-used)
-* [Conclusions](#conclusions)
 * [Acknowledgements](#acknowledgements)
 
 <!-- You can include any other section that is pertinent to your problem -->
@@ -18,7 +18,7 @@
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
-## predictor variables of SalesPrice of houses
+## Some of the Predictor variables of SalesPrice of houses
 - Above Ground living area in square feet
 - Masonry veneer area in square feet
 - Lot area in square feet
@@ -45,6 +45,9 @@ Give credit here.
 
 ## Contact
 Created by [@UmaHyndavi] - feel free to contact me!
+
+## nbviewer link
+https://nbviewer.org/github/UmaHyndavi/SurpriseHousing_Regularization_Assignment/tree/master/Course3_ML2/Uma_RegularizationAssigment/
 
 
 <!-- Optional -->
